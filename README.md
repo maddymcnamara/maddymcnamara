@@ -1,37 +1,33 @@
-## Hi there 👋 I'm Madelyn McNamara  
+## Hi!! I'm Madelyn McNamara  
 
-🎓 **Data Science + Information Science student @ UIUC** | **Computer Science minor**  
-📍 Urbana-Champaign, IL | GPA: 3.98 | Dean’s List  
+ **Data Science + Information Science student @ UIUC** | **Computer Science minor**  
+ Urbana-Champaign, IL | GPA: 3.98 | Dean’s List  
 
 ---
 
-### 💻 About Me
+### About Me
 - 📊 Passionate about **data science, machine learning, and statistical modeling**  
 - 👩‍🏫 Currently a **Course Assistant** in the Computer Science Department at UIUC  
 - 🏋️‍♀️ Also a **group fitness instructor** (cycle, pilates, yoga sculpt)  
 - 🎾 Tennis & pickleball coach with experience leading teams and individuals  
-- 🌟 Excited about using **data-driven insights** to solve real-world problems  
+- 🌟 Love using **data-driven insights** to solve real-world problems  
 
 ---
 
-### 🔧 Technical Skills
-- **Languages:** Python (NumPy, Pandas, Scikit-learn, Matplotlib), SQL, R, Java  
-- **Data & Modeling:** Data cleaning, regression, classification, clustering  
+###  Technical Skills
+- **Languages:** Python (NumPy, Pandas, Scikit-learn, Matplotlib), SQL, R, Java, C++  
+- **Data & Modeling:** Data cleaning, regression, classification, clustering, etc
 - **Visualization:** Matplotlib, Seaborn, Plotly, Power BI  
 - **Tools:** Jupyter Notebook, RStudio, Excel, Git/GitHub  
 
 ---
 
-### 🚀 Projects
-- **Movie Review Sentiment Analysis**  
-  Built classification models on 10K+ reviews, optimized with cross-validation, and achieved **89% accuracy**.  
+###  Projects
+- **US Open Tennis Match Outcome Prediction**
+Built predictive models using Random Forest and K-Nearest Neighbors on historical match data (Rank, Odds, Points) to forecast outcomes. Implemented feature engineering with difference metrics and optimized models with train/test split and scaling, achieving ~61% accuracy with KNN.
 
-- **COVID-19 Data Dashboard**  
-  Cleaned large-scale datasets and built **interactive dashboards** (Plotly, Power BI) to track state-by-state trends.  
-
-- **SQL E-Commerce Database**  
-  Designed a relational schema and optimized queries, reducing runtime by **40%**.  
-
+- **Superstore Sales Analysis & Forecasting**
+Performed exploratory data analysis on a 50K+ transaction dataset, cleaning and transforming sales, discount, and profit data. Built linear regression and KNN models to predict log-transformed sales, identifying key drivers and visualizing results with Matplotlib and Seaborn. 
 ---
 
 ### 💼 Experience
